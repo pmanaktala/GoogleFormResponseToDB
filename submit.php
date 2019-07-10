@@ -26,7 +26,4 @@ else
 {
     //Failure
 }
-
-
-
 ?>
