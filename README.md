@@ -8,7 +8,9 @@ Steps to proceed
 3. Paste the Code.gs code there. Give an appropriate title and save the code.
 4. Go to your hosting and create a file with the required name with the contents in submit.php.
 5. In script editor, run your code to test it.
-6. If everything works fine you can proceed to enable this code to run every time form is filled Steps for making this autorun on form fill.
+6. If everything works fine you can proceed to enable this code to run every time form is filled 
+
+sSteps for making this autorun on form fill.
 
 1. Click on Edit->Current project triggers.
 2. Click on Add Trigger on the next page that opens.
