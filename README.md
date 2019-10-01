@@ -10,7 +10,7 @@ Steps to proceed
 5. In script editor, run your code to test it.
 6. If everything works fine you can proceed to enable this code to run every time form is filled 
 
-sSteps for making this autorun on form fill.
+Steps for making this autorun on form fill.
 
 1. Click on Edit->Current project triggers.
 2. Click on Add Trigger on the next page that opens.
